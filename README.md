@@ -1,3 +1,3 @@
-# Prosed_Codes
+# Prosed_Codes　（コード提出）
 ソース管理とGITの使い方、コードの可読性向上用
 ---
